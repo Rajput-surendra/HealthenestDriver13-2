@@ -1,0 +1,379 @@
+{
+  "project_info": {
+    "project_number": "299622853715",
+    "firebase_url": "https://vizzvefoods-35d93-default-rtdb.firebaseio.com",
+    "project_id": "vizzvefoods-35d93",
+    "storage_bucket": "vizzvefoods-35d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299622853715:android:5850fe303ea60434cd6aa6",
+        "android_client_info": {
+          "package_name": "com.fookad.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299622853715-co8k3pv2mjki67v69v97ngh03kc2r44t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fookad.driver",
+            "certificate_hash": "688fa69646cb862d677b2630de357afce7115f3c"
+          }
+        },
+        {
+          "client_id": "299622853715-dqcinmn515ep9027r2pgiemkkie70k6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fookad.driver",
+            "certificate_hash": "12ec2962e6067f35648a1eae460bdbeb2722d4ac"
+          }
+        },
+        {
+          "client_id": "299622853715-i48d8tnneh88ijqmc4oen5etmg32fdrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fookad.driver",
+            "certificate_hash": "a604526045c4d4840fa0ec60bcb62fe15cb5c289"
+          }
+        },
+        {
+          "client_id": "299622853715-rqvutponmtujpu2totqkg6n09qii86jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fookad.driver",
+            "certificate_hash": "9c851d2f6060a3a25dc4089ef95ef5884f3dbcd9"
+          }
+        },
+        {
+          "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gtnKMk3NBXSlKnwMK5HExJTxypK8qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299622853715-o4umpmmflc23jmg8aohoqfcuniaq04u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizve.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299622853715:android:594ab812eaa34400cd6aa6",
+        "android_client_info": {
+          "package_name": "com.vizve.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299622853715-u5fckf6vt5u2ulvgopnbg1rgm4r6ejiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizve.seller",
+            "certificate_hash": "025fbc6e09bc0002a5504b74292b416ac4d9cb99"
+          }
+        },
+        {
+          "client_id": "299622853715-utk7mhtodl5l5dilmbt1j7620cr7f7ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizve.seller",
+            "certificate_hash": "a604526045c4d4840fa0ec60bcb62fe15cb5c289"
+          }
+        },
+        {
+          "client_id": "299622853715-veusmcp28p3co85op0m4fckb4sl0ji67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizve.seller",
+            "certificate_hash": "2cb7da1c10b392e7a28aabd2ad189683c138dabe"
+          }
+        },
+        {
+          "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gtnKMk3NBXSlKnwMK5HExJTxypK8qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299622853715-o4umpmmflc23jmg8aohoqfcuniaq04u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizve.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299622853715:android:4ec33e087381227acd6aa6",
+        "android_client_info": {
+          "package_name": "com.vizve.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299622853715-h1v91dlspvqk07uf0c686pmpbejehi5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizve.user",
+            "certificate_hash": "f0b3c031faa39bdfe023f218d86d7f40e81aa751"
+          }
+        },
+        {
+          "client_id": "299622853715-hh58ndh4frg2f44klf9p1esm02kid1dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizve.user",
+            "certificate_hash": "9ac5ae83ea2e52b9534076b44dc10994927a22e8"
+          }
+        },
+        {
+          "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gtnKMk3NBXSlKnwMK5HExJTxypK8qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299622853715-o4umpmmflc23jmg8aohoqfcuniaq04u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizve.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299622853715:android:d91a6d9e6195507fcd6aa6",
+        "android_client_info": {
+          "package_name": "com.vizzve.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299622853715-18rvkkvcsr2j82jpgm5oedv17a8e6733.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.driver",
+            "certificate_hash": "9c851d2f6060a3a25dc4089ef95ef5884f3dbcd9"
+          }
+        },
+        {
+          "client_id": "299622853715-ag1tcsa235145flq2ff28b5miorpt3k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.driver",
+            "certificate_hash": "3cd8d2ab7a39f3db8d8d82e705430aa0bc8ed5ee"
+          }
+        },
+        {
+          "client_id": "299622853715-ntk5gs02954t7nsloflhcmfsljnqak6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.driver",
+            "certificate_hash": "025fbc6e09bc0002a5504b74292b416ac4d9cb99"
+          }
+        },
+        {
+          "client_id": "299622853715-obsumo2ao1jn2nogutjq2l0sgp0ekjmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.driver",
+            "certificate_hash": "a604526045c4d4840fa0ec60bcb62fe15cb5c289"
+          }
+        },
+        {
+          "client_id": "299622853715-v0opmsrqsphg9o6fbj15pfe3j738m9hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.driver",
+            "certificate_hash": "943f2e7231e083f98ec2d808fe2203f0f3278080"
+          }
+        },
+        {
+          "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gtnKMk3NBXSlKnwMK5HExJTxypK8qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299622853715-o4umpmmflc23jmg8aohoqfcuniaq04u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizve.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299622853715:android:0831d1d9f427d646cd6aa6",
+        "android_client_info": {
+          "package_name": "com.vizzve.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299622853715-nu8b25utf4e9dr91obtrfq6smdb5v0t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.seller",
+            "certificate_hash": "025fbc6e09bc0002a5504b74292b416ac4d9cb99"
+          }
+        },
+        {
+          "client_id": "299622853715-pppcvi0dri6v3m7as9akpu604lmtsmun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.seller",
+            "certificate_hash": "2cb7da1c10b392e7a28aabd2ad189683c138dabe"
+          }
+        },
+        {
+          "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gtnKMk3NBXSlKnwMK5HExJTxypK8qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299622853715-o4umpmmflc23jmg8aohoqfcuniaq04u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizve.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299622853715:android:8df2e9f60c8fedc1cd6aa6",
+        "android_client_info": {
+          "package_name": "com.vizzve.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299622853715-5kvja1lissu75eium10oqf2m6lb5lgc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.user",
+            "certificate_hash": "943f2e7231e083f98ec2d808fe2203f0f3278080"
+          }
+        },
+        {
+          "client_id": "299622853715-gtdn152hempm51uk5v8st3d9vp6pa9fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.user",
+            "certificate_hash": "025fbc6e09bc0002a5504b74292b416ac4d9cb99"
+          }
+        },
+        {
+          "client_id": "299622853715-p3g7llf1sshp7mcadvlg734psfutcdqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzve.user",
+            "certificate_hash": "9692bc0120d1d8897f0f6d6470b36b90f311c73a"
+          }
+        },
+        {
+          "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gtnKMk3NBXSlKnwMK5HExJTxypK8qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299622853715-u92vi4hle1hojs5rpjhvhmbljouephd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299622853715-o4umpmmflc23jmg8aohoqfcuniaq04u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vizve.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,90 @@
+name: deliveryboy_multivendor
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+3
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  http: ^0.13.0
+  url_launcher: ^6.0.17
+  shared_preferences: ^2.0.5
+  connectivity: ^3.0.3
+  shimmer: ^2.0.0
+  #flutter_webview_plugin: ^0.4.0
+  jaguar_jwt: ^3.0.0
+  country_code_picker: ^2.0.2
+  firebase_messaging: ^11.4.0
+  flutter_local_notifications: ^9.8.0
+  path_provider: ^2.0.2
+  dropdown_button2: ^1.7.2
+  sms_autofill: ^2.0.1
+  date_format: ^2.0.6
+  blinking_point: ^1.0.0+6
+  firebase_auth: ^3.0.2
+  flutter_html: ^2.2.1
+  #url_launcher: ^6.0.2
+  flutter_svg: ^0.23.0
+  maps_launcher: ^2.0.1
+  flutter_background: ^1.1.0
+  firebase_core: ^1.11.0
+  firebase_database: ^9.0.5
+  geolocator: ^9.0.0
+  toggle_switch: ^2.0.1
+  flutter_rating_bar: ^4.0.0
+  fluttertoast: ^8.0.9
+  location: ^4.3.0
+  file_picker: ^4.0.0
+  image_picker: ^0.8.5+3
+  animated_text_kit: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+  #    - assets/images/1.5x/
+  #    - assets/images/2.0x/
+  #    - assets/images/3.0x/
+  #    - assets/images/0.75x/
+  #    - assets/images/4.0x/
+
+  fonts:
+    - family: opensans
+      fonts:
+        - asset: assets/font/OpenSans-Regular.ttf
